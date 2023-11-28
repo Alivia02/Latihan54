@@ -1,12 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package latihan54.koordinat;
-
 /**
  *
  * @author ACER
+ * NAMA     : ALIVIA FATAH YUMNA
+ * KELAS    : PBO RegPagi
+ * NIM      : 22166016
+ * DESKRIPSI PROGRAM : Program ini berisi program untuk menampilkan implementasi coding "koordinat"
  */
 public class PBOLat54 {
     private int x;
